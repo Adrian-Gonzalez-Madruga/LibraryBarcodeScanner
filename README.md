@@ -3,7 +3,10 @@ React-Native Android Application that once authenticated allows the user to scan
 
 ## Getting Started
 The React Native Application is currently unable to be run.
-At current because of AndroidX integration libraries are unstable and failing to merge resulting in inability to run.
+At current because of AndroidX integration libraries are unstable and failing to merge resulting in inability to run. Though the project recorded in it's presented state is linked below.
+
+## View Project
+[![LibraryBarcodeScanner Youtube](http://img.youtube.com/vi/tqfVqFaJ02o/0.jpg)](http://www.youtube.com/watch?v=tqfVqFaJ02o "LibraryBarcodeScanner")
 
 ## Built With
 
